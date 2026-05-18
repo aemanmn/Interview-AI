@@ -1,0 +1,24 @@
+{
+  candidate_name: 'John Doe',
+  email: 'johndoe@email.com',
+  phone: '+1-234-567-890',
+  experience_summary: 'John Doe has over 4 years of experience in full-stack development, with a focused tenure at ABC Tech since 2021 building REST APIs and React dashboards. He holds a BS in Computer Science from State University.',
+  skill_alignment_analysis: [
+    'React: Strong (Meets 3+ years requirement)',
+    'Node.js: Strong (Meets 3+ years requirement)',
+    'REST API: Strong (Direct experience building APIs at ABC Tech)',
+    'MongoDB: Mentioned as a core skill'
+  ],
+  job_requirements_match_score: 0.95,
+  strengths: [
+    'Direct experience with the full MERN stack',
+    'Solid educational foundation in Computer Science',
+    'Proven track record of building scalable web applications'
+  ],
+  areas_for_improvement: [
+    'Specific testing frameworks (e.g., Jest, Cypress) not detailed in resume',
+    'Cloud deployment experience (e.g., AWS, Azure) not explicitly stated'
+  ],
+  overall_assessment: 'John Doe is an excellent match for the Full Stack Developer position. His professional experience aligns perfectly with the core technology requirements (React, Node.js, MongoDB), and his timeline of experience exceeds the minimum requirements.',
+  hiring_recommendation: 'Proceed to Technical Interview'
+}
